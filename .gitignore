@@ -5,3 +5,5 @@ data/lsoa_boundaries.geojson
 data/imd_2019.numbers
 __pycache__/
 .DS_Store
+.ipynb_checkpoints/
+.vscode/
